@@ -1,0 +1,24 @@
+com/example/android/notepad/NotePadProvider.java
+ com.example.android.notepad.NotePadProvider
+ com.example.android.notepad.NotePadProvider$DatabaseHelper
+com/example/android/notepad/BuildConfig.java
+ com.example.android.notepad.BuildConfig
+com/example/android/notepad/NotePad.java
+ com.example.android.notepad.NotePad
+ com.example.android.notepad.NotePad$Notes
+com/example/android/notepad/TitleEditor.java
+ com.example.android.notepad.TitleEditor
+com/example/android/notepad/R.java
+ com.example.android.notepad.R
+ com.example.android.notepad.R$drawable
+ com.example.android.notepad.R$id
+ com.example.android.notepad.R$layout
+ com.example.android.notepad.R$menu
+ com.example.android.notepad.R$string
+com/example/android/notepad/NotesList.java
+ com.example.android.notepad.NotesList
+com/example/android/notepad/NotesLiveFolder.java
+ com.example.android.notepad.NotesLiveFolder
+com/example/android/notepad/NoteEditor.java
+ com.example.android.notepad.NoteEditor
+ com.example.android.notepad.NoteEditor$LinedEditText
