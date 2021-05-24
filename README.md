@@ -61,6 +61,9 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 	    setListAdapter(adapter);
 	}
 	注意，还要在NoteEditor.java里也添加获取时间的功能（这里是编辑Note时获取的时间），不然无法正确显示编辑Note后的时间
+
 运行效果截图：
-![snipaste20210524_201240](https://user-images.githubusercontent.com/84312532/119346480-d7837900-bccc-11eb-83d5-ff4c36af6ce9.png)
-![snipaste20210524_201154](https://user-images.githubusercontent.com/84312532/119346509-e10ce100-bccc-11eb-8a69-ca04f38a9fe3.png)
+
+![image](https://user-images.githubusercontent.com/84312532/119346480-d7837900-bccc-11eb-83d5-ff4c36af6ce9.png)
+
+![image](https://user-images.githubusercontent.com/84312532/119346509-e10ce100-bccc-11eb-8a69-ca04f38a9fe3.png)
